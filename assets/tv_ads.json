@@ -1,0 +1,16 @@
+{
+  "ads": [
+    {
+      "enabled": true,
+      "title": "إعلانك هنا",
+      "subtitle": "اعرض علامتك التجارية لمشاهدي ZStream",
+      "label": "Sponsored",
+      "button": "OPEN",
+      "image_url": "",
+      "target_url": "",
+      "start_date": "2025-01-01",
+      "end_date": "2099-12-31",
+      "duration_seconds": 8
+    }
+  ]
+}
