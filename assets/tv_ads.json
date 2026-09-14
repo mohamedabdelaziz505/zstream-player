@@ -6,8 +6,8 @@
       "subtitle": "اعرض علامتك التجارية لمشاهدي ZStream",
       "label": "Sponsored",
       "button": "OPEN",
-      "image_url": "",
-      "target_url": "",
+      "image_url": "https://dummyimage.com/600x240/202040/ffffff.png&text=ZStream+Test+Ad",
+      "target_url": "https://example.com",
       "start_date": "2025-01-01",
       "end_date": "2099-12-31",
       "duration_seconds": 8
