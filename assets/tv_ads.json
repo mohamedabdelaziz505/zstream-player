@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "enabled": true,
+      "enabled": false,
       "title": "إعلانك هنا",
       "subtitle": "اعرض علامتك التجارية لمشاهدي ZStream",
       "label": "Sponsored",
