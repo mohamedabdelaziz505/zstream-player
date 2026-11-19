@@ -1,7 +1,7 @@
 {
   "ads": [
     {
-      "enabled": false,
+      "enabled": true,
       "title": "إعلانك هنا",
       "subtitle": "اعرض علامتك التجارية لمشاهدي ZStream",
       "label": "Sponsored",
@@ -12,7 +12,9 @@
       "start_date": "2025-01-01",
       "end_date": "2099-12-31",
       "duration_seconds": 8,
-      "id": "ho5uipk9et"
+      "id": "ho5uipk9et",
+      "poster_fit": "cover",
+      "poster_image_url": "https://raw.githubusercontent.com/mohamedabdelaziz505/zstream-player/main/assets/tv_ads/ho5uipk9et_poster_1795062212772.jpg"
     }
   ]
 }
